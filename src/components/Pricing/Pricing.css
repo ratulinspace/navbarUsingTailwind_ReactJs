@@ -1,0 +1,8 @@
+.div-style{
+    margin-top: 30px;
+    border: 2px dashed black;
+    border-radius: 15px;
+    padding: 15px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: small;
+}
